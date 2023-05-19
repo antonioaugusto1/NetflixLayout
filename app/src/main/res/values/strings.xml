@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="titulo">Heartland</string>
+    <string name="epsodio">T10:E08</string>
+    <string name="minutoAtual">20:00</string>
+    <string name="minutoFinal">40:00</string>
+</resources>
